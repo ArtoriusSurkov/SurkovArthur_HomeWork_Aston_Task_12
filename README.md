@@ -1,1 +1,2 @@
-# SurkovArthur_HomeWork_Aston_Task_12
+# Задание 1
+Добавить к существующей системе паттерны: gateway api, service discovery, circuit breaker, external configuration - реализации данных паттернов можно найти в модулях spring cloud.
